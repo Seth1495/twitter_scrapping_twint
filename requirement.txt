@@ -1,0 +1,1 @@
+Requirements needs of using an twint and textblob library
